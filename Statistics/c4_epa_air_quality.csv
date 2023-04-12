@@ -1,0 +1,261 @@
+,date_local,state_name,county_name,city_name,local_site_name,parameter_name,units_of_measure,arithmetic_mean,aqi
+0,2018-01-01,Arizona,Maricopa,Buckeye,BUCKEYE,Carbon monoxide,Parts per million,0.473684,7
+1,2018-01-01,Ohio,Belmont,Shadyside,Shadyside,Carbon monoxide,Parts per million,0.263158,5
+2,2018-01-01,Wyoming,Teton,Not in a city,Yellowstone National Park - Old Faithful Snow Lodge,Carbon monoxide,Parts per million,0.111111,2
+3,2018-01-01,Pennsylvania,Philadelphia,Philadelphia,North East Waste (NEW),Carbon monoxide,Parts per million,0.3,3
+4,2018-01-01,Iowa,Polk,Des Moines,CARPENTER,Carbon monoxide,Parts per million,0.215789,3
+5,2018-01-01,Hawaii,Honolulu,Not in a city,Kapolei,Carbon monoxide,Parts per million,0.994737,14
+6,2018-01-01,Hawaii,Honolulu,Not in a city,Kapolei,Carbon monoxide,Parts per million,0.2,2
+7,2018-01-01,Pennsylvania,Erie,Erie,,Carbon monoxide,Parts per million,0.2,2
+8,2018-01-01,Hawaii,Honolulu,Honolulu,Honolulu,Carbon monoxide,Parts per million,0.4,5
+9,2018-01-01,Colorado,Larimer,Fort Collins,Fort Collins - CSU - S. Mason,Carbon monoxide,Parts per million,0.3,6
+10,2018-01-01,Minnesota,Dakota,Rosemount,Flint Hills Refinery 420,Carbon monoxide,Parts per million,0.247368,3
+11,2018-01-01,Indiana,Marion,Indianapolis,Indpls.- Illinois St.,Carbon monoxide,Parts per million,0.542105,8
+12,2018-01-01,Ohio,Hamilton,Cincinnati,Taft NCore,Carbon monoxide,Parts per million,0.252632,3
+13,2018-01-01,Arizona,Maricopa,Mesa,MESA,Carbon monoxide,Parts per million,0.505263,10
+14,2018-01-01,Missouri,Jackson,Kansas City,"Blue Ridge, I-70",Carbon monoxide,Parts per million,0.233333,5
+15,2018-01-01,Connecticut,Hartford,Hartford,Huntley Place-Hartford,Carbon monoxide,Parts per million,0.222222,5
+16,2018-01-01,California,San Bernardino,Ontario,Ontario Near Road (Etiwanda),Carbon monoxide,Parts per million,0.747368,11
+17,2018-01-01,Nevada,Washoe,Reno,Reno3,Carbon monoxide,Parts per million,0.4,7
+18,2018-01-01,California,Sacramento,Arden-Arcade,Sacramento-Del Paso Manor,Carbon monoxide,Parts per million,0.752632,16
+19,2018-01-01,Arizona,Pima,Tucson,CHILDREN'S PARK NCore,Carbon monoxide,Parts per million,0.331579,7
+20,2018-01-01,Virginia,Roanoke,Vinton,East Vinton Elementary School,Carbon monoxide,Parts per million,0.1,1
+21,2018-01-01,Iowa,Linn,Cedar Rapids,Public Health,Carbon monoxide,Parts per million,0.1,1
+22,2018-01-01,Ohio,Stark,Canton,Canton,Carbon monoxide,Parts per million,0.394737,6
+23,2018-01-01,Rhode Island,Providence,Providence,Near Rd,Carbon monoxide,Parts per million,0.405882,6
+24,2018-01-01,Texas,Harris,Houston,Houston North Loop,Carbon monoxide,Parts per million,0.247368,3
+25,2018-01-01,Nevada,Clark,Las Vegas,Sunrise Acres,Carbon monoxide,Parts per million,1.805263,41
+26,2018-01-01,California,Orange,La Habra,La Habra,Carbon monoxide,Parts per million,0.673684,13
+27,2018-01-01,California,Alameda,Not in a city,Berkeley- Aquatic Park,Carbon monoxide,Parts per million,1.088889,15
+28,2018-01-01,Illinois,Cook,Northbrook,NORTHBROOK WATER PLANT,Carbon monoxide,Parts per million,0.421053,6
+29,2018-01-01,Kansas,Wyandotte,Kansas City,JFK,Carbon monoxide,Parts per million,0.136842,2
+30,2018-01-01,Maryland,Baltimore,Essex,Essex,Carbon monoxide,Parts per million,0.184211,2
+31,2018-01-01,Minnesota,Hennepin,Minneapolis,Near Road I-35/I-94,Carbon monoxide,Parts per million,0.273684,3
+32,2018-01-01,New Jersey,Bergen,Fort Lee,Fort Lee Near Road,Carbon monoxide,Parts per million,0.338889,5
+33,2018-01-01,California,Los Angeles,Lancaster,Lancaster-Division Street,Carbon monoxide,Parts per million,0.394737,7
+34,2018-01-01,California,Fresno,Fresno,Fresno - Garland,Carbon monoxide,Parts per million,1.0,15
+35,2018-01-01,Minnesota,Anoka,Blaine,Anoka County Airport,Carbon monoxide,Parts per million,0.2,2
+36,2018-01-01,Massachusetts,Suffolk,Boston,VON HILLERN ST,Carbon monoxide,Parts per million,0.252632,3
+37,2018-01-01,Maine,Cumberland,Portland,PDO - Portland Deering Oaks,Carbon monoxide,Parts per million,0.168421,3
+38,2018-01-01,Idaho,Ada,Not in a city,Meridian - St. Luke's,Carbon monoxide,Parts per million,0.352632,6
+39,2018-01-01,Florida,Orange,Winter Park,WINTER PARK,Carbon monoxide,Parts per million,0.6,8
+40,2018-01-01,California,San Mateo,Redwood City,Redwood City,Carbon monoxide,Parts per million,0.672222,10
+41,2018-01-01,Colorado,La Plata,Not in a city,UTE 1,Carbon monoxide,Parts per million,0.3,3
+42,2018-01-01,California,Los Angeles,Santa Clarita,Santa Clarita,Carbon monoxide,Parts per million,0.394737,7
+43,2018-01-01,California,Contra Costa,Concord,Concord,Carbon monoxide,Parts per million,0.294444,5
+44,2018-01-01,Virginia,Arlington,Arlington,Aurora Hills Visitors Center,Carbon monoxide,Parts per million,0.352632,5
+45,2018-01-01,California,Butte,Chico,Chico-East Avenue,Carbon monoxide,Parts per million,0.466667,9
+46,2018-01-01,California,Riverside,Mira Loma,Mira Loma (Van Buren),Carbon monoxide,Parts per million,1.231579,27
+47,2018-01-01,Vermont,Chittenden,Underhill (Town of),PROCTOR MAPLE RESEARCH CTR,Carbon monoxide,Parts per million,0.1,1
+48,2018-01-01,Florida,Hillsborough,Tampa,Munro Street (Near-Road),Carbon monoxide,Parts per million,0.347368,6
+49,2018-01-01,Tennessee,Shelby,Memphis,Memphis NCORE site,Carbon monoxide,Parts per million,0.1,1
+50,2018-01-01,Georgia,DeKalb,Not in a city,South DeKalb,Carbon monoxide,Parts per million,0.2,2
+51,2018-01-01,Ohio,Summit,Akron,NIHF STEM MS,Carbon monoxide,Parts per million,0.083333,3
+52,2018-01-01,Massachusetts,Hampden,Springfield,LIBERTY ST PARKING LOT,Carbon monoxide,Parts per million,0.210526,3
+53,2018-01-01,South Dakota,Minnehaha,Sioux Falls,SD School for the Deaf,Carbon monoxide,Parts per million,0.242105,5
+54,2018-01-01,North Carolina,Mecklenburg,Charlotte,Remount,Carbon monoxide,Parts per million,0.2,2
+55,2018-01-01,West Virginia,Kanawha,Charleston,,Carbon monoxide,Parts per million,0.226316,3
+56,2018-01-01,Colorado,Denver,Denver,I-25,Carbon monoxide,Parts per million,0.478947,7
+57,2018-01-01,New Jersey,Essex,Newark,Newark Firehouse,Carbon monoxide,Parts per million,0.183333,3
+58,2018-01-01,California,Kern,Arvin,Arvin-Di Giorgio,Carbon monoxide,Parts per million,0.278947,3
+59,2018-01-01,Ohio,Cuyahoga,Cleveland,GT Craig NCore,Carbon monoxide,Parts per million,0.25,3
+60,2018-01-01,Iowa,Scott,Davenport,"DAVENPORT, JEFFERSON SCH.",Carbon monoxide,Parts per million,0.2,2
+61,2018-01-01,California,Los Angeles,Pasadena,Pasadena,Carbon monoxide,Parts per million,0.789474,16
+62,2018-01-01,California,Alameda,Oakland,Laney College,Carbon monoxide,Parts per million,0.611111,9
+63,2018-01-01,California,Sacramento,Not in a city,North Highlands-Blackfoot,Carbon monoxide,Parts per million,0.836842,18
+64,2018-01-01,Pennsylvania,Allegheny,Pittsburgh,Flag Plaza,Carbon monoxide,Parts per million,0.184211,2
+65,2018-01-01,Michigan,Wayne,Livonia,LIVONIA-NR,Carbon monoxide,Parts per million,0.338889,5
+66,2018-01-01,Nebraska,Douglas,Omaha,4102 Woolworth Ave. on Healthcenter Warehouse,Carbon monoxide,Parts per million,0.227778,5
+67,2018-01-01,Arizona,Maricopa,Chandler,WEST CHANDLER,Carbon monoxide,Parts per million,0.8,19
+68,2018-01-01,Indiana,Marion,Indianapolis (Remainder),Indpls- Washington Park/  in parking lot next to police station,Carbon monoxide,Parts per million,0.3,3
+69,2018-01-01,Arizona,Maricopa,Phoenix,JLG SUPERSITE,Carbon monoxide,Parts per million,0.978947,20
+70,2018-01-01,Missouri,St. Louis City,St. Louis,Forest Park,Carbon monoxide,Parts per million,0.2,2
+71,2018-01-01,Alabama,Jefferson,Birmingham,Arkadelphia/Near Road,Carbon monoxide,Parts per million,0.2,2
+72,2018-01-01,Washington,King,Seattle,SEATTLE - BEACON HILL,Carbon monoxide,Parts per million,0.273684,3
+73,2018-01-01,Minnesota,Dakota,Lakeville,Near Road I-35,Carbon monoxide,Parts per million,0.2,2
+74,2018-01-01,North Carolina,Wake,Raleigh,Millbrook School,Carbon monoxide,Parts per million,0.177778,2
+75,2018-01-01,California,San Joaquin,Stockton,Stockton-Hazelton,Carbon monoxide,Parts per million,1.084211,20
+76,2018-01-01,California,Los Angeles,Los Angeles,LAX Hastings,Carbon monoxide,Parts per million,0.863158,17
+77,2018-01-01,California,Riverside,Lake Elsinore,Lake Elsinore,Carbon monoxide,Parts per million,0.510526,9
+78,2018-01-01,Maryland,Garrett,Grantsville,Piney Run,Carbon monoxide,Parts per million,0.2,2
+79,2018-01-01,Pennsylvania,Philadelphia,Philadelphia,Car-Barn Montgomery I -76,Carbon monoxide,Parts per million,0.223529,3
+80,2018-01-01,Nevada,Clark,Las Vegas,Rancho & Teddy,Carbon monoxide,Parts per million,1.036842,15
+81,2018-01-01,California,Santa Barbara,Vandenberg Air Force Base,VAFB South Base,Carbon monoxide,Parts per million,0.2,2
+82,2018-01-01,Wyoming,Laramie,Not in a city,Cheyenne NCore,Carbon monoxide,Parts per million,0.2,2
+83,2018-01-01,Texas,Jefferson,Nederland,Nederland 17th Street,Carbon monoxide,Parts per million,0.2,2
+84,2018-01-01,Kentucky,Edmonson,Not in a city,Mammoth Cave NP - Houchin Meadow,Carbon monoxide,Parts per million,0.182353,2
+85,2018-01-01,Oklahoma,Tulsa,Tulsa,NORTH TULSA - FIRE STATION#24,Carbon monoxide,Parts per million,0.2,2
+86,2018-01-01,California,Santa Clara,San Jose,San Jose - Jackson,Carbon monoxide,Parts per million,0.747059,15
+87,2018-01-01,California,Humboldt,Eureka,Jacobs,Carbon monoxide,Parts per million,0.39375,5
+88,2018-01-01,New Jersey,Union,Elizabeth,Elizabeth Lab,Carbon monoxide,Parts per million,0.5,6
+89,2018-01-01,Maryland,Howard,North Laurel,Howard County Near Road,Carbon monoxide,Parts per million,0.215789,3
+90,2018-01-01,New York,Erie,Cheektowaga,Buffalo Near-Road,Carbon monoxide,Parts per million,0.252632,3
+91,2018-01-01,Texas,El Paso,El Paso,El Paso Chamizal,Carbon monoxide,Parts per million,0.226316,5
+92,2018-01-01,Pennsylvania,Philadelphia,Philadelphia,Torresdale Station,Carbon monoxide,Parts per million,0.336842,5
+93,2018-01-01,Oklahoma,Oklahoma,Oklahoma City,Near Road,Carbon monoxide,Parts per million,0.284211,5
+94,2018-01-01,Florida,Pinellas,Saint Petersburg,Sawgrass Lake Park (Near-Road),Carbon monoxide,Parts per million,0.315789,9
+95,2018-01-01,Colorado,Mesa,Grand Junction,GRAND JUNCTION - PITKIN,Carbon monoxide,Parts per million,0.305263,6
+96,2018-01-01,Minnesota,Dakota,Inver Grove Heights (RR name Inver Grove),Flint Hills Refinery 423,Carbon monoxide,Parts per million,0.2,2
+97,2018-01-01,Colorado,El Paso,Colorado Springs,COLORADO SPRINGS - HIGHWAY 24,Carbon monoxide,Parts per million,0.326316,5
+98,2018-01-01,Vermont,Chittenden,Burlington,City of Burlington Parking Lot,Carbon monoxide,Parts per million,0.233333,3
+99,2018-01-01,California,Santa Barbara,Goleta,Goleta,Carbon monoxide,Parts per million,0.222222,3
+100,2018-01-01,Nevada,Washoe,Sparks,Sparks,Carbon monoxide,Parts per million,0.710526,11
+101,2018-01-01,Pennsylvania,Adams,Not in a city,NARSTO SITE ARENDTSVILLE,Carbon monoxide,Parts per million,0.144444,2
+102,2018-01-01,Texas,Harris,Houston,Clinton,Carbon monoxide,Parts per million,0.157895,2
+103,2018-01-01,Kentucky,Jefferson,Louisville,Durrett Lane (Near Road),Carbon monoxide,Parts per million,0.2,2
+104,2018-01-01,Arizona,Pima,Tucson,22ND & ALVERNON,Carbon monoxide,Parts per million,0.168421,3
+105,2018-01-01,Connecticut,New Haven,New Haven,Criscuolo Park-New Haven,Carbon monoxide,Parts per million,0.216667,3
+106,2018-01-01,California,Imperial,Calexico,Calexico-Ethel Street,Carbon monoxide,Parts per million,1.183333,26
+107,2018-01-01,Pennsylvania,Allegheny,Wilkinsburg,Parkway East Near-Road,Carbon monoxide,Parts per million,0.455556,6
+108,2018-01-01,North Dakota,Burleigh,Bismarck,BISMARCK RESIDENTIAL,Carbon monoxide,Parts per million,0.2,2
+109,2018-01-01,California,Los Angeles,Los Angeles,Los Angeles-North Main Street,Carbon monoxide,Parts per million,0.994737,17
+110,2018-01-01,California,Los Angeles,Los Angeles,Los Angeles-North Main Street,Carbon monoxide,Parts per million,0.9,16
+111,2018-01-01,Texas,El Paso,El Paso,Ojo De Agua,Carbon monoxide,Parts per million,0.131579,3
+112,2018-01-01,Connecticut,Litchfield,Cornwall,Mohawk Mt-Cornwall,Carbon monoxide,Parts per million,0.1,1
+113,2018-01-01,New York,Bronx,New York,PFIZER LAB SITE,Carbon monoxide,Parts per million,0.289474,3
+114,2018-01-01,Florida,Miami-Dade,Not in a city,KENDALL,Carbon monoxide,Parts per million,0.078947,3
+115,2018-01-01,Montana,Lewis and Clark,Not in a city,NCORE - Sieben Flats,Carbon monoxide,Parts per million,0.1,1
+116,2018-01-01,Virginia,Richmond City,Richmond,Bryan Park,Carbon monoxide,Parts per million,0.442105,7
+117,2018-01-01,California,San Diego,El Cajon,El Cajon - Lexington Elementary School,Carbon monoxide,Parts per million,0.626667,11
+118,2018-01-01,Wyoming,Converse,Not in a city,Converse County Long-Term,Carbon monoxide,Parts per million,0.092308,1
+119,2018-01-01,California,Los Angeles,Reseda,Reseda,Carbon monoxide,Parts per million,1.015789,19
+120,2018-01-01,Ohio,Cuyahoga,Cleveland,Galleria,Carbon monoxide,Parts per million,0.273684,3
+121,2018-01-01,North Carolina,Mecklenburg,Charlotte,Garinger High School,Carbon monoxide,Parts per million,0.2,2
+122,2018-01-01,Michigan,Wayne,Detroit,West corner,Carbon monoxide,Parts per million,0.394737,8
+123,2018-01-01,Michigan,Wayne,Detroit,MARK TWAIN MIDDLE SCHOOL,Carbon monoxide,Parts per million,0.515789,9
+124,2018-01-01,New York,Monroe,Rochester,ROCHESTER 2,Carbon monoxide,Parts per million,0.2,2
+125,2018-01-01,Utah,Salt Lake,Salt Lake City,Hawthorne,Carbon monoxide,Parts per million,0.694444,10
+126,2018-01-01,Florida,Broward,Fort Lauderdale,Near Road - Fort Lauderdale,Carbon monoxide,Parts per million,0.373684,7
+127,2018-01-01,California,Marin,San Rafael,San Rafael,Carbon monoxide,Parts per million,0.505556,7
+128,2018-01-01,Montana,Gallatin,Not in a city,West Yellowstone Park Ent #2,Carbon monoxide,Parts per million,0.244444,3
+129,2018-01-01,Michigan,Wayne,Detroit,ELIZA-NR,Carbon monoxide,Parts per million,0.616667,11
+130,2018-01-01,California,San Bernardino,Fontana,Fontana,Carbon monoxide,Parts per million,0.626316,11
+131,2018-01-01,Arizona,Maricopa,Phoenix,CENTRAL PHOENIX,Carbon monoxide,Parts per million,1.110526,27
+132,2018-01-01,California,Los Angeles,Compton,Compton,Carbon monoxide,Parts per million,1.742105,40
+133,2018-01-01,Missouri,St. Louis City,St. Louis,Blair Street,Carbon monoxide,Parts per million,0.2,2
+134,2018-01-01,California,Alameda,Oakland,Oakland,Carbon monoxide,Parts per million,0.6,10
+135,2018-01-01,Delaware,New Castle,Wilmington,MLK  CORNER OF MLK BLVD AND JUSTISON ST,Carbon monoxide,Parts per million,0.215789,3
+136,2018-01-01,Pennsylvania,York,York,A421330008LAT/LON POINT AT CORNER OF TRAILER,Carbon monoxide,Parts per million,0.0,0
+137,2018-01-01,Florida,Duval,Jacksonville,Pepsi Place,Carbon monoxide,Parts per million,0.326316,5
+138,2018-01-01,New Jersey,Union,Elizabeth,Elizabeth,Carbon monoxide,Parts per million,0.458824,7
+139,2018-01-01,California,San Bernardino,Victorville,Victorville-Park Avenue,Carbon monoxide,Parts per million,0.621053,13
+140,2018-01-01,Texas,Harris,Deer Park,Houston Deer Park #2,Carbon monoxide,Parts per million,0.2,2
+141,2018-01-01,California,San Francisco,San Francisco,San Francisco,Carbon monoxide,Parts per million,0.65,8
+142,2018-01-01,Colorado,Denver,Denver,DENVER - CAMP,Carbon monoxide,Parts per million,0.4,5
+143,2018-01-01,Massachusetts,Worcester,Worcester,WORCESTER SUMMER STREET,Carbon monoxide,Parts per million,0.252632,3
+144,2018-01-01,Rhode Island,Providence,East Providence, FRANCIS SCHOOL East Providence,Carbon monoxide,Parts per million,0.2,2
+145,2018-01-01,Massachusetts,Suffolk,Boston,DUDLEY SQUARE ROXBURY,Carbon monoxide,Parts per million,0.184211,2
+146,2018-01-01,New Hampshire,Hillsborough,Peterborough (Peterboro),MILLER STATE PARK,Carbon monoxide,Parts per million,0.2,2
+147,2018-01-01,California,Santa Clara,San Jose,San Jose - Knox Avenue,Carbon monoxide,Parts per million,1.111111,18
+148,2018-01-01,California,Contra Costa,San Pablo,San Pablo,Carbon monoxide,Parts per million,0.405556,7
+149,2018-01-01,Ohio,Franklin,Columbus,Morse Rd,Carbon monoxide,Parts per million,0.184211,3
+150,2018-01-01,Arizona,Pima,Tucson,22ND & CRAYCROFT,Carbon monoxide,Parts per million,0.147368,3
+151,2018-01-01,California,Orange,Anaheim,Anaheim,Carbon monoxide,Parts per million,0.694737,11
+152,2018-01-01,Louisiana,East Baton Rouge,Baton Rouge,Capitol,Carbon monoxide,Parts per million,0.0,0
+153,2018-01-01,Texas,Bexar,San Antonio,San Antonio Interstate 35,Carbon monoxide,Parts per million,0.252632,3
+154,2018-01-01,Idaho,Ada,Boise (corporate name Boise City),Boise - Eastman Garage,Carbon monoxide,Parts per million,0.889474,14
+155,2018-01-01,Arizona,Maricopa,Phoenix,SOUTH PHOENIX,Carbon monoxide,Parts per million,1.394737,36
+156,2018-01-01,California,Fresno,Clovis,Clovis-Villa,Carbon monoxide,Parts per million,0.761111,10
+157,2018-01-01,Vermont,Rutland,Rutland,State of Vermont District Court Parking Lot,Carbon monoxide,Parts per million,0.35,6
+158,2018-01-01,California,Stanislaus,Modesto,Modesto-14th Street,Carbon monoxide,Parts per million,0.488889,9
+159,2018-01-01,New Jersey,Camden,Camden,Camden Spruce Street,Carbon monoxide,Parts per million,0.2,2
+160,2018-01-01,Mississippi,Hinds,Jackson,Jackson NCORE,Carbon monoxide,Parts per million,0.2,2
+161,2018-01-01,California,Kern,Bakersfield,Bakersfield-Muni,Carbon monoxide,Parts per million,0.633333,13
+162,2018-01-01,New Mexico,Bernalillo,Albuquerque,DEL NORTE HIGH SCHOOL,Carbon monoxide,Parts per million,0.247368,7
+163,2018-01-01,California,Los Angeles,Azusa,Azusa,Carbon monoxide,Parts per million,0.673684,10
+164,2018-01-01,Indiana,Lake,East Chicago,East Chicago- Post Office,Carbon monoxide,Parts per million,0.247368,3
+165,2018-01-01,Utah,Weber,Ogden,Ogden,Carbon monoxide,Parts per million,0.326316,7
+166,2018-01-01,New Jersey,Hudson,Jersey City,Jersey City,Carbon monoxide,Parts per million,0.133333,3
+167,2018-01-01,New York,New York,New York,CCNY,Carbon monoxide,Parts per million,0.2,2
+168,2018-01-01,Illinois,Saint Clair,East Saint Louis,IEPA-RAPS TRAILER,Carbon monoxide,Parts per million,0.2,2
+169,2018-01-01,Florida,Wakulla,Saint Marks,St. Marks Wildlife Refuge,Carbon monoxide,Parts per million,0.2,2
+170,2018-01-01,California,San Diego,San Diego,San Diego -Rancho Carmel Drive,Carbon monoxide,Parts per million,0.933333,11
+171,2018-01-01,California,Inyo,Not in a city,White Mountain Research Center - Owens Valley Lab,Carbon monoxide,Parts per million,0.1,1
+172,2018-01-01,California,Los Angeles,Pico Rivera,Pico Rivera #2,Carbon monoxide,Parts per million,1.047368,18
+173,2018-01-01,New York,Queens,New York,Queens College Near Road,Carbon monoxide,Parts per million,0.273684,3
+174,2018-01-01,Oklahoma,Adair,Cherry Tree,STILWELL,Carbon monoxide,Parts per million,0.166667,2
+175,2018-01-01,Oklahoma,Oklahoma,Oklahoma City,OKC NORTH,Carbon monoxide,Parts per million,0.036842,1
+176,2018-01-01,California,Contra Costa,Bethel Island,Bethel Island,Carbon monoxide,Parts per million,0.511111,7
+177,2018-01-01,California,Los Angeles,Long Beach,Long Beach (Hudson),Carbon monoxide,Parts per million,1.2,24
+178,2018-01-01,Oregon,Multnomah,Portland,Portland - SE Lafayette,Carbon monoxide,Parts per million,0.205263,3
+179,2018-01-01,Colorado,Adams,Welby,Welby,Carbon monoxide,Parts per million,0.294737,5
+180,2018-01-01,Maine,Hancock,Not in a city,MCFARLAND HILL Air Pollutant Research Site,Carbon monoxide,Parts per million,0.2,2
+181,2018-01-01,New Hampshire,Rockingham,Londonderry,MOOSEHILL SCHOOL,Carbon monoxide,Parts per million,0.2,2
+182,2018-01-01,New York,Queens,New York,QUEENS COLLEGE 2,Carbon monoxide,Parts per million,0.2,2
+183,2018-01-01,District Of Columbia,District of Columbia,Washington,MCMILLAN  NCore-PAMS,Carbon monoxide,Parts per million,0.2,2
+184,2018-01-01,New York,Steuben,Not in a city,PINNACLE STATE PARK,Carbon monoxide,Parts per million,0.2,2
+185,2018-01-01,Illinois,Champaign,Bondville,ISWS CLIMATE STATION,Carbon monoxide,Parts per million,0.142105,2
+186,2018-01-01,Arkansas,Pulaski,North Little Rock,PARR,Carbon monoxide,Parts per million,0.3,3
+187,2018-01-01,Puerto Rico,Ponce,Ponce,RESIDENTIAL AREA,Carbon monoxide,Parts per million,0.336842,5
+188,2018-01-01,Arizona,Maricopa,Tempe,Diablo,Carbon monoxide,Parts per million,0.542105,10
+189,2018-01-01,California,Los Angeles,Pomona,Pomona,Carbon monoxide,Parts per million,1.0,20
+190,2018-01-01,California,Madera,Madera,Madera-Pump Yard,Carbon monoxide,Parts per million,0.347368,5
+191,2018-01-01,Ohio,Franklin,Columbus,Smoky Row Near Road,Carbon monoxide,Parts per million,0.115789,2
+192,2018-01-01,Michigan,Wayne,Allen Park,Allen Park,Carbon monoxide,Parts per million,0.811111,13
+193,2018-01-01,Virginia,Hampton City,Hampton,NASA Langley Research Center,Carbon monoxide,Parts per million,0.215789,3
+194,2018-01-01,California,San Bernardino,Upland,Upland,Carbon monoxide,Parts per million,0.884211,13
+195,2018-01-01,New York,Erie,Buffalo,BUFFALO,Carbon monoxide,Parts per million,0.3,3
+196,2018-01-01,New York,Monroe,Rochester,Rochester Near-Road,Carbon monoxide,Parts per million,0.2,2
+197,2018-01-01,Florida,Duval,Jacksonville,Southside Playground,Carbon monoxide,Parts per million,0.521053,7
+198,2018-01-01,California,Riverside,Palm Springs,Palm Springs,Carbon monoxide,Parts per million,0.157895,3
+199,2018-01-01,California,Riverside,Rubidoux,Rubidoux,Carbon monoxide,Parts per million,1.021053,23
+200,2018-01-01,California,Riverside,Rubidoux,Rubidoux,Carbon monoxide,Parts per million,0.984211,22
+201,2018-01-01,Florida,Miami-Dade,Miami,Lab Annex,Carbon monoxide,Parts per million,0.305263,7
+202,2018-01-01,Minnesota,Ramsey,St. Paul,Lexington Avenue,Carbon monoxide,Parts per million,0.121053,2
+203,2018-01-01,California,Santa Barbara,Santa Maria,Santa Maria,Carbon monoxide,Parts per million,0.227778,3
+204,2018-01-01,Colorado,Weld,Greeley,Greeley - Weld County Tower,Carbon monoxide,Parts per million,0.231579,3
+205,2018-01-01,Tennessee,Shelby,Memphis,Near Road Site at Southwest Tennessee Community College,Carbon monoxide,Parts per million,0.284211,3
+206,2018-01-01,California,San Bernardino,San Bernardino,San Bernardino,Carbon monoxide,Parts per million,1.1,28
+207,2018-01-01,Michigan,Wayne,Not in a city,Eliza Downwind,Carbon monoxide,Parts per million,0.516667,10
+208,2018-01-01,Pennsylvania,Allegheny,Pittsburgh,Lawrenceville,Carbon monoxide,Parts per million,0.25,3
+209,2018-01-01,Texas,Tarrant,Fort Worth,Fort Worth California Parkway North,Carbon monoxide,Parts per million,0.215789,3
+210,2018-01-01,Arizona,Pima,Tucson,GOLF LINKS,Carbon monoxide,Parts per million,0.268421,5
+211,2018-01-01,California,Fresno,Not in a city,Tranquillity,Carbon monoxide,Parts per million,0.215789,3
+212,2018-01-01,Minnesota,Hennepin,Minneapolis,Hennepin Center for the Arts,Carbon monoxide,Parts per million,0.010526,1
+213,2018-01-01,California,Santa Barbara,Capitan,Los Flores Canyon #1,Carbon monoxide,Parts per million,0.273333,3
+214,2018-01-01,Florida,Broward,Davie,Daniela Banu NCORE,Carbon monoxide,Parts per million,0.273684,5
+215,2018-01-01,Ohio,Cuyahoga,Warrensville Heights,Cleveland Near Road,Carbon monoxide,Parts per million,0.321053,5
+216,2018-01-01,Indiana,Vanderburgh,Evansville,Evansville- Lloyd,Carbon monoxide,Parts per million,0.2,2
+217,2018-01-01,Florida,Duval,Jacksonville,Rosselle,Carbon monoxide,Parts per million,0.005263,1
+218,2018-01-01,California,Sonoma,Sebastopol,Sebastopol,Carbon monoxide,Parts per million,0.572222,8
+219,2018-01-01,Indiana,Marion,Indianapolis (Remainder),Indpls.- I 70,Carbon monoxide,Parts per million,0.231579,3
+220,2018-01-01,California,Napa,Napa,Napa,Carbon monoxide,Parts per million,0.588889,10
+221,2018-01-01,South Carolina,Richland,Dentsville (Dents),PARKLANE,Carbon monoxide,Parts per million,0.1,1
+222,2018-01-01,California,San Bernardino,Barstow,Barstow,Carbon monoxide,Parts per million,0.305263,5
+223,2018-01-01,Maryland,Prince George's,Beltsville,HU-Beltsville,Carbon monoxide,Parts per million,0.183333,2
+224,2018-01-01,California,Sacramento,Sacramento,Sacramento-Bercut Drive,Carbon monoxide,Parts per million,0.627778,13
+225,2018-01-01,Utah,Salt Lake,Salt Lake City,ROSE PARK,Carbon monoxide,Parts per million,0.363158,10
+226,2018-01-01,Michigan,Kent,Grand Rapids,GR-MONROE,Carbon monoxide,Parts per million,0.2,2
+227,2018-01-01,California,Santa Barbara,Lompoc,Lompoc H Street,Carbon monoxide,Parts per million,0.393333,6
+228,2018-01-01,Georgia,Fulton,Atlanta,NR-GA Tech,Carbon monoxide,Parts per million,0.373684,6
+229,2018-01-01,Texas,Travis,Austin,Austin North Interstate 35,Carbon monoxide,Parts per million,0.2,2
+230,2018-01-01,California,Monterey,Salinas,Salinas 3,Carbon monoxide,Parts per million,0.552632,10
+231,2018-01-01,Ohio,Montgomery,Dayton,Reibold,Carbon monoxide,Parts per million,0.163158,2
+232,2018-01-01,Florida,Hillsborough,Valrico,SYDNEY,Carbon monoxide,Parts per million,0.242105,6
+233,2018-01-01,California,Los Angeles,Glendora,Glendora,Carbon monoxide,Parts per million,0.389474,6
+234,2018-01-01,New York,Albany,Albany,LOUDONVILLE,Carbon monoxide,Parts per million,0.221053,3
+235,2018-01-01,Pennsylvania,Lackawanna,Scranton,A420692006LAT/LON POINT IS AT CORNER OF TRAILER,Carbon monoxide,Parts per million,0.3,3
+236,2018-01-01,California,Solano,Vallejo,Vallejo,Carbon monoxide,Parts per million,0.62,9
+237,2018-01-01,New Mexico,Bernalillo,South Valley,SOUTH VALLEY,Carbon monoxide,Parts per million,0.231579,5
+238,2018-01-01,Alaska,Anchorage ,Anchorage,GARDEN/TRINITY CHRISTIAN CHURCH,Carbon monoxide,Parts per million,0.552632,9
+239,2018-01-01,California,Alameda,Oakland,Oakland West,Carbon monoxide,Parts per million,0.988889,15
+240,2018-01-01,Arizona,La Paz,Wenden,ALAMO LAKE,Carbon monoxide,Parts per million,0.2,2
+241,2018-01-01,Ohio,Preble,New Paris,Preble NCore,Carbon monoxide,Parts per million,0.176471,2
+242,2018-01-01,Michigan,Wayne,Detroit,(Northeast corner),Carbon monoxide,Parts per million,0.378947,7
+243,2018-01-01,Alaska,Fairbanks North Star ,Fairbanks,NCORE,Carbon monoxide,Parts per million,0.557895,8
+244,2018-01-01,Arizona,Maricopa,Phoenix,WEST PHOENIX,Carbon monoxide,Parts per million,1.921053,50
+245,2018-01-01,Connecticut,Fairfield,Bridgeport,Roosevelt School-Bridgeport,Carbon monoxide,Parts per million,0.261111,5
+246,2018-01-01,Washington,King,Seattle,Seattle-10th & Weller,Carbon monoxide,Parts per million,0.384211,5
+247,2018-01-01,Texas,Dallas,Dallas,Dallas Hinton,Carbon monoxide,Parts per million,0.157895,2
+248,2018-01-01,Michigan,Wayne,Detroit,NORTHWEST,Carbon monoxide,Parts per million,0.415789,8
+249,2018-01-01,California,Orange,Anaheim,Anaheim Near-Road,Carbon monoxide,Parts per million,1.015789,15
+250,2018-01-01,California,Los Angeles,West Los Angeles,West Los Angeles,Carbon monoxide,Parts per million,0.655556,11
+251,2018-01-01,Colorado,Denver,Denver,La Casa,Carbon monoxide,Parts per million,0.342105,5
+252,2018-01-01,Ohio,Hamilton,Cincinnati,Cincinnati Near Road,Carbon monoxide,Parts per million,0.226316,3
+253,2018-01-01,Oregon,Washington,Tualatin,Tualatin Bradbury Court (TBC) - Near Road Site,Carbon monoxide,Parts per million,0.1,1
+254,2018-01-01,Arizona,Pima,Tucson,CHERRY & GLENN,Carbon monoxide,Parts per million,0.563158,14
+255,2018-01-01,District Of Columbia,District of Columbia,Washington,Near Road,Carbon monoxide,Parts per million,0.244444,3
+256,2018-01-01,Wisconsin,Dodge,Kekoskee,HORICON WILDLIFE AREA,Carbon monoxide,Parts per million,0.2,2
+257,2018-01-01,Kentucky,Jefferson,Louisville,CANNONS LANE,Carbon monoxide,Parts per million,0.163158,2
+258,2018-01-01,Nebraska,Douglas,Omaha,,Carbon monoxide,Parts per million,0.421053,9
+259,2018-01-01,North Carolina,Wake,Not in a city,Triple Oak,Carbon monoxide,Parts per million,0.188889,2
